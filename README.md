@@ -1,6 +1,6 @@
 <div align = "center">
 
-<img src="https://raw.githubusercontent.com/AstrOOnauta/boilerplate-nextjs/main/public/img/icon-512.png">
+<img src="https://raw.githubusercontent.com/AstrOOnauta/boilerplate-nextjs/main/public/img/icon-192.png">
 
 </div>
 
@@ -27,7 +27,7 @@ This is a [Next.js](https://nextjs.org/) boilerplate to be used...
     - Run the development server
     $ npm run dev
 
-    - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    - Open (http://localhost:3000) with your browser to see the result.
     - You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Commands

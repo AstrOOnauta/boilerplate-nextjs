@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Meteor E-Commerce</title>
+        <title>NextJS | Boilerplate</title>
         <link
           rel="shortcut icon"
           href="/img/icon-192.png"

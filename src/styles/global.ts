@@ -19,7 +19,8 @@ const GlobalStyles = createGlobalStyle`
     body{
         background-color: var(--background);
         color: var(--black);
-        -webkit-font-smoothing: antialiesed;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
     }
 
     body, input, button {
